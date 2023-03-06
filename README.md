@@ -1,5 +1,5 @@
 # ICT523b
-<!DOCTYPE html>
+
 <html>
 <head>
 <title>Page Title</title>
@@ -8,7 +8,7 @@
 
 <h1>Hi,I'm He Xuwen,my English name is Tom.My hometown is Taizhou where is form Zhejiang.I'm an IT A1 class ' student. I have many hoppies, such as playing soccer, badmintom and soon on.I think the class is little difficult for me,but I will try my best to improve myslef.</h1>
 <p>My first paragraph.</p>
-<img src="1.jpg"
+
 </body>
 </html>
 
